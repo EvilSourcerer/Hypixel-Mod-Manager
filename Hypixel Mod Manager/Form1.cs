@@ -82,7 +82,7 @@ namespace Hypixel_Mod_Manager
         private void Form1_Load(object sender, EventArgs e)
         {
             WebClient updater = new WebClient();
-            updater.DownloadStringAsync(new Uri("https://www.simpodex.com/mods/updater.txt"));
+            updater.DownloadStringAsync(new Uri("OBFUSCATED [FOR SECURITY REASONS]"));
             updater.DownloadStringCompleted += Updater_DownloadStringCompleted;
             if(File.Exists("modspath"))
             {
@@ -122,7 +122,7 @@ namespace Hypixel_Mod_Manager
         {
             if(visualStudioTabControl1.SelectedTab.Text=="Download Mods")
             {
-                wb.DownloadStringAsync(new Uri("https://www.simpodex.com/fetchmods.php?page=" + pagecount));
+                wb.DownloadStringAsync(new Uri("OBFUSCATED [FOR SECURITY REASONS]" + pagecount));
                 wb.DownloadStringCompleted += Wb_DownloadStringCompleted;
                 wb.DownloadProgressChanged += Wb_DownloadProgressChanged;
             }
@@ -145,7 +145,7 @@ namespace Hypixel_Mod_Manager
             }
             if (visualStudioTabControl1.SelectedTab.Text == "Suggest A Mod")
             {
-                System.Diagnostics.Process.Start("https://www.simpodex.com/suggest-a-mod.php");
+                System.Diagnostics.Process.Start("OBFUSCATED [FOR SECURITY REASONS]");
             }
         }
 
@@ -175,7 +175,7 @@ namespace Hypixel_Mod_Manager
         {
             listBox2.Items.Clear();
             pictureBox1.Visible = true;
-            wb.DownloadStringAsync(new Uri("https://www.simpodex.com/fetchmods.php?page=" + pagecount));
+            wb.DownloadStringAsync(new Uri("OBFUSCATED [FOR SECURITY REASONS]" + pagecount));
             wb.DownloadStringCompleted += Wb_DownloadStringCompleted;
         }
 
@@ -222,7 +222,7 @@ namespace Hypixel_Mod_Manager
             listBox2.Items.Clear();
             pictureBox1.Visible = true;
             
-            wb.DownloadStringAsync(new Uri("https://www.simpodex.com/fetchmods.php?page=" + pagecount));
+            wb.DownloadStringAsync(new Uri("OBFUSCATED [FOR SECURITY REASONS]" + pagecount));
             wb.DownloadStringCompleted += Wb_DownloadStringCompleted;
         }
 
@@ -231,7 +231,7 @@ namespace Hypixel_Mod_Manager
             listBox2.Items.Clear();
             pictureBox1.Visible = true;
             
-            wb.DownloadStringAsync(new Uri("https://www.simpodex.com/fetchmods.php?page=" + pagecount + "&query=" + textBox2.Text.Replace(" ","%20")));
+            wb.DownloadStringAsync(new Uri("OBFUSCATED [FOR SECURITY REASONS]" + pagecount + "&query=" + textBox2.Text.Replace(" ","%20")));
             wb.DownloadStringCompleted += Wb_DownloadStringCompleted1;
         }
 

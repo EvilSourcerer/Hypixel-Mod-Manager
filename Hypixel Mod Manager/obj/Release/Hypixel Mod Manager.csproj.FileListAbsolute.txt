@@ -12,3 +12,17 @@ C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Rele
 C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\ProgressBars.dll
 C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\ProgressBars.xml
 C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\Hypixel Mod Manager.exe.config
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\Hypixel Mod Manager.exe
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\Hypixel Mod Manager.pdb
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\ProgressBars.dll
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\VisualStudioTabControl.dll
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\bin\Release\ProgressBars.xml
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel_Mod_Manager.Form1.resources
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel_Mod_Manager.Properties.Resources.resources
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.csproj.GenerateResource.cache
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.csproj.CopyComplete
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.exe
+C:\Users\Sourcerer\Documents\obfuscated-HMM\Hypixel Mod Manager\Hypixel Mod Manager\obj\Release\Hypixel Mod Manager.pdb
