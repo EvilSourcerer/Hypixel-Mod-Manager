@@ -1,0 +1,12 @@
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Debug\Hypixel Mod Manager.exe.config
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Debug\Hypixel Mod Manager.exe
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Debug\Hypixel Mod Manager.pdb
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel_Mod_Manager.Form1.resources
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel_Mod_Manager.Properties.Resources.resources
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.csproj.GenerateResource.cache
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.exe
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.pdb
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\bin\Debug\VisualStudioTabControl.dll
+C:\Users\Sourcerer\source\repos\Hypixel Mod Manager\Hypixel Mod Manager\obj\Debug\Hypixel Mod Manager.csproj.CopyComplete
